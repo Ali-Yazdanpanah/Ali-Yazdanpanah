@@ -1,7 +1,7 @@
 # Hi, I'm Ali 👋
 
 I'm a network and systems engineer with a Master's in Computer Architecture.  
-I enjoy building at the boundary of hardware, performance, and machine learning — especially for distributed and edge environments.
+I enjoy building at the boundary of hardware, performance, and machine learning, especially for distributed and edge environments.
 
 ## What I work on
 
