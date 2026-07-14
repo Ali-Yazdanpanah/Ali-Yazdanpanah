@@ -9,7 +9,7 @@ I'm a computer systems architecture engineer working at the boundary of **hardwa
 
 ## Featured projects
 
-### INT8 QNN Accelerator , [qnn_cifar10](https://github.com/Ali-Yazdanpanah/qnn_cifar10)
+### INT8 QNN Accelerator , [qnn_int8](https://github.com/Ali-Yazdanpanah/qnn_int8)
 Quantized-inference datapath (Verilog/Vivado): DSP48-mapped INT8 MAC, banked weight memory, INT8 requantisation. Verified bit-exact against a Python golden model; synthesised in DSP48 and LUT-fabric modes with full utilisation/timing/power reports.
 
 ### Spiking Neural Network on FPGA , [Leaky-Integrate-and-Fire-Neurons](https://github.com/Ali-Yazdanpanah/Leaky-Integrate-and-Fire-Neurons)
